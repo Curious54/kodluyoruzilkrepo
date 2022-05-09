@@ -15,12 +15,11 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 linux için:
 
-> cd
-> kodluyoruzilkrepo code .
+> cd kodluyoruzilkrepo code .
 
-## Contrbuting
+## Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartılmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ![](https://global-uploads.webflow.com/6097e0eca1e87557da031fef/6136c7fd01d5637f9fa8be9e_logo-1.png)
 
