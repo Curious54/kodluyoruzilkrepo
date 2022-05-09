@@ -4,8 +4,7 @@ Bu repo [kodluyoruz](https://courses.kodluyoruz.org/?gclid=EAIaIQobChMIqoO2pIbT9
 
 ## Installation
 
-Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız l
-nk gelecek)
+Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
 > https://github.com/Curious54/kodluyoruzilkrepo.git
 
