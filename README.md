@@ -20,8 +20,6 @@ linux için:
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-![](https://global-uploads.webflow.com/6097e0eca1e87557da031fef/6136c7fd01d5637f9fa8be9e_logo-1.png)
-
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
